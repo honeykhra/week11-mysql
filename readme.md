@@ -35,4 +35,4 @@
 
 # OUTPUT
 
-Output file is saved in Schema.sql And Queries.sql
+Output file is saved in warehouse schema.sql And queries_warehouse.sql
